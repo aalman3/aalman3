@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aalman3
+- 👀 I’m interested in food
+- 🌱 I’m currently learning computer science at Carnegie Mellon University
